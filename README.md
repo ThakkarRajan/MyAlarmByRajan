@@ -11,42 +11,54 @@ https://github.com/ThakkarRajan/MyAlarmByRajan/assets/133991447/7cfc0277-674b-44
 
 A simple and efficient alarm application built using Kotlin for Android devices. This app allows users to set alarms and receive notifications at specified times, with the ability to cancel alarms as needed.
 
-#Features
+## Features
 
-Set custom alarms with specific times
-Receive notifications when alarms trigger
-Cancel alarms easily
-User-friendly interface
-Technologies Used
-Kotlin: Primary programming language
-Android SDK: For building the Android application
-AlarmManager: To schedule and manage alarms
-NotificationManager: To display notifications when alarms trigger
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/kotlin-alarm-app.git
+- Set custom alarms with specific times
+- Receive notifications when alarms trigger
+- Cancel alarms easily
+- User-friendly interface
+- Technologies Used
+
+## Kotlin: Primary programming language
+
+- Android SDK: For building the Android application
+- AlarmManager: To schedule and manage alarms
+- NotificationManager: To display notifications when alarms trigger
+#
 
 Open the project in Android Studio
-Build and run the app on your Android device or emulator
-Usage
-Launch the app
-Tap the "+" button to add a new alarm
+
+
+Build and run the app on your Android device or emulator Usage Launch the app
+
+
+Tap the select time and then set alarm button to add a new alarm
+
+
 Set the desired time for the alarm
+
+
 Save the alarm
+
+
 When the alarm triggers, you'll receive a notification
+
+
 To cancel an alarm, swipe it away or tap the cancel button in the app
+
 Contributing
 Contributions are welcome! If you'd like to improve the app or add new features, please follow these steps:
-Fork the repository
-Create a new branch for your feature
-Commit your changes
-Push to your branch
-Open a pull request
-License
+
+## License
 This project is licensed under the MIT License.
-Contact
+
+# Contact
 If you have any questions or suggestions, feel free to reach out:
-Email: your.email@example.com
-GitHub: Your GitHub Profile
+- Name : Thakkar Rajan
+- Email : thakkarrajanca@gmail.com
+
+- GitHub: ThakkarRajan ()
+
+
 Acknowledgments
 Thanks to the Kotlin and Android development communities for their excellent resources and documentation.
