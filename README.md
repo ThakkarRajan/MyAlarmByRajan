@@ -57,7 +57,7 @@ If you have any questions or suggestions, feel free to reach out:
 - Name : Thakkar Rajan
 - Email : thakkarrajanca@gmail.com
 
-- GitHub: ThakkarRajan ()
+- GitHub: ThakkarRajan (https://github.com/ThakkarRajan)
 
 
 Acknowledgments
